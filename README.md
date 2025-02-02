@@ -1,6 +1,8 @@
 # NETFLIX-ANALYSIS
 Tableau Project
 
+[![Image alt](https://github.com/Nikhil414/NETFLIX-ANALYSIS/blob/280878af3ebd622e58843d9b0c6cc16fc0c5983c/Capture.PNG)](https://public.tableau.com/views/NETFLIXANALYSIS_17378071257360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 # Netflix Data Analysis and Visualization in Tableau
 
